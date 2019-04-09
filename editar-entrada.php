@@ -22,9 +22,7 @@
       <?php echo isset($_SESSION['errores_entradas']) ? mostrarError($_SESSION['errores_entradas'], 'titulo') : ''; ?>
 
       <label>Descripcion: <br/> 
-        <textarea name="descripcion" cols="50" rows="10">
-          <?= $entrada_actual['descripcion']; ?>
-        </textarea>
+        <textarea name="descripcion" cols="50" rows="10"><?= $entrada_actual['descripcion']; ?></textarea>
       </label>
       <?php echo isset($_SESSION['errores_entradas']) ? mostrarError($_SESSION['errores_entradas'], 'descripcion') : ''; ?>
 
