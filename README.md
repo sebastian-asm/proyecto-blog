@@ -9,9 +9,3 @@ Este proyecto fue realizado con el lenguaje PHP (programación estructurada) y M
 - Buscar en el blog
 
 Principalmente, este sitio fue construido para aplicar lo aprendido en un curso realizado en Udemy. 
-
-El código queda a disposión para quien le sea útil. 
-
-[sebastiansanchez.cl](https://sebastiansanchez.cl/)
-
-:)
